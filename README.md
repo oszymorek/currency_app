@@ -38,6 +38,7 @@ A simple Application to Convert Currency.
 
 https://project10-oszymorek.netlify.app/
 
+## Repository Structure
 ```sh
 └── currency_app/
     ├── README.md
